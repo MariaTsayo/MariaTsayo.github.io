@@ -14,7 +14,6 @@ darkmode: false
 # Social links
 twitter_username: tsayo7
 github_username:  MariaTsayo
-instagram_username: tsayo_
 linkedin_username: maria-tsagiopoulou-106913113
 orcid_username: 0000-0002-1653-0327
 
@@ -64,17 +63,25 @@ about_content: | # this will include new lines to allow paragraphs
 # projects_title: Projects #(Use this to override about projects section title)
 
 # Experience Section
-# experience_title: Experience #(Use this to override about experience section title)
+experience_title: Awards #(Use this to override about experience section title)
 
 # Education Section
 # education_title: Education #(Use this to override about education section title)
 
 # More Section
-# more_title: A Little More About Me #(Use this to override about more section title)
+#more_title: Publications #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+  •	**Maria Tsagiopoulou**, Vicente Chapaprieta, Martí Duran-Ferrer, Theodoros Moysiadis, Fotis Psomopoulos, Panagoula Kollia, Nikos Papakonstantinou, Elias Campo, Kostas Stamatopoulos, Jose I. Martin-Subero, Chronic lymphocytic leukemias with trisomy 12 show a distinct DNA methylation profile linked to altered chromatin activation, Haematologica (2020), https://doi.org/10.3324/haematol.2019.240721
 
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+  •	Stamatia, L., Alanis-Lobato, G., Pribyl, J., Raskó, T., Tichy, B., Mikulasek, K., **Tsagiopoulou, M.**, et al., “Nuclear inclusions of pathogenic ataxin-1 induce oxidative stress and perturb the protein synthesis machinery”, Redox Biology, 32, 101458, 2020, 10.1016/j.redox.2020.101458
+
+  • Gavriilaki, E., Sakellari, T. T. I., Batsis, I., Psomopoulos, F., **Tsagiopoulou**, et al., (2020). Pre-transplant genetic susceptibility: clinical relevance in transplant-associated thrombotic microangiopathy. Thrombosis and Haemostasis, 1–20, https://doi.org/10.1055/s-0040-1702225
+
+  • Andigoni Malousi, Sofia Kouidou, **Maria Tsagiopoulou**, et al., “MeinteR: A framework to prioritize DNA methylation aberrations based on conformational and cis-regulatory element enrichment”, Scientific Reports, 2019,https://doi.org/10.1038/s41598-019-55453-8 
+  
+  • **Maria Tsagiopoulou**, Nikos Papakonstantinou, Theodoros Moisiadis, et al., “DNA methylation profiles in chronic lymphocytic leukemia patients treated with chemoimmunotherapy”, Clin Epigenetics, 2019 Dec 2;11(1):177. doi: 10.1186/s13148-019-0783-1.
+  
+  • Nikos Papakonstantinou, Stavroula Ntoufa, **Maria Tsagiopoulou**, et al., “Integrated epigenomic and transcriptomic analysis reveals TP63 as a novel player in clinically aggressive chronic lymphocytic leukemia”, International Journal of Cancer, 0(ja), 2018, DOI: 10.1002/ijc.31999
 
 # Footer
 footer_show_references: true

@@ -20,12 +20,11 @@
     largely unexplored in stereotyped cases. Here, we analyzed the active chromatin regulatory landscape of 3 major CLL stereotyped subsets associated with clinical aggressiveness.
 - layout: top-middle
   name: DNA methylation studies in CLL
-  link: https://clinicalepigeneticsjournal.biomedcentral.com/articles/10.1186/s13148-019-0783-1
-  link: http://www.haematologica.org/content/early/2020/02/21/haematol.2019.240721
+  #link: http://www.haematologica.org/content/early/2020/02/21/haematol.2019.240721
   #github: https://github.com/MariaTsayo/consensusTable_MACS2
   #quote: >
   #  Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
     Altogether, this project confirms the significance of DNA methylation in CLL, 
-    provides insight into the mechanism of the progression and relapse and further unravels 
-    the DNA methylation landscape in cytogenetic subgroups and stereotyped subsets of CLL.
+    provides insight into the mechanism of [the progression and relapse](https://clinicalepigeneticsjournal.biomedcentral.com/articles/10.1186/s13148-019-0783-1) and further unravels 
+    the DNA methylation landscape in [cytogenetic subgroups](http://www.haematologica.org/content/early/2020/02/21/haematol.2019.240721) and [stereotyped subsets of CLL](https://onlinelibrary.wiley.com/doi/full/10.1002/ijc.31999).
