@@ -15,7 +15,7 @@
   #quote: >
   #  Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
-    InterTADs is an open-source tool written in R, for integrating multi-omics data (e.g. DNA methylation, expression, mutation) 
+    [InterTADs](https://academic.oup.com/nargab/article/4/1/lqab121/6507428) is an open-source tool written in R, for integrating multi-omics data (e.g. DNA methylation, expression, mutation) 
     from the same physical source (e.g. patient) taking into account the chromatin configuration of the genome, i.e. the topologically associating domains (TADs).
 - layout: top-middle
   name: Acetylation profiles of stereotyped subsets in CLL
