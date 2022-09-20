@@ -1,5 +1,14 @@
 # Project template
 - layout: top-middle
+  name: Multi-tissue single-cell transcriptomics of immune cells in different tissues
+  #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  github: biomedicalGenomicsCNAG/mulTI_Metalas
+  #quote: >
+  #  Short overview of the project (optional)
+  description: | # this will include new lines to allow paragraphs
+    Analysis of the transcriptional landscape of 114275 immune cells in 14 different organs/tissues with a special focus on the unique and shared features that 
+    characterized the different organs/tissues regarding the same immune cell types. 
+- layout: top-middle
   name: InterTADs
   #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   github: nikopech/InterTADs
@@ -11,7 +20,7 @@
 - layout: top-middle
   name: Acetylation profiles of stereotyped subsets in CLL
   #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: MariaTsayo/consensusTable_MACS2
+  github: MariaTsayo//H3K27ac_ss8
   #quote: >
   #  Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
