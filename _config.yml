@@ -65,7 +65,7 @@ experience_title: Awards #(Use this to override about experience section title)
 # More Section
 #more_title: Publications #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  1. My early work focused on the epigenetic mechanisms and their implication in gene expression of specific genes in chronic lymphocytic leukemia
+  1. My early work focused on the epigenetic mechanisms and their implication in gene expression of specific genes in chronic lymphocytic leukemia 
 
   •	**Maria Tsagiopoulou**, Nikolaos Pechlivanis, MC Maniou, Psomopoulos Fotis, InterTADs: integration of multi-omics data on topologically associated domains, application to chronic lymphocytic leukemia. NAR Genom Bioinform, 2022, doi: https://doi.org/10.1093/nargab/lqab121
   •	**Maria Tsagiopoulou**, Vicente Chapaprieta, Martí Duran-Ferrer, et al., Chronic lymphocytic leukemias with trisomy 12 show a distinct DNA methylation profile linked to altered chromatin activation, Haematologica, 2020, https://doi.org/10.3324/haematol.2019.240721
