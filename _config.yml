@@ -4,8 +4,8 @@ repository: Git repository where your resume will be hosted, only required if yo
 
 # Personal info
 name: CV Maria Tsagiopoulou
-title: postdoctoral researcher
-email: m.tsagiopoulou@certh.gr
+title: Postdoctoral researcher
+email: maria.tsagiopoulou@cnag.crg.eu
 #website: Your website (eg. https://google.com)(optional)
 
 # Dark Mode (true/false/never)
@@ -36,20 +36,21 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Maria_Tsagiopoulou.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Maria Tsagiopoulou, PhD, is a postdoctoral researcher at the Institute of Applied Biosciences (INAB)/ Centre for Research and Technology Hellas (CERTH). 
-  After her BSc in Molecular biology and genetics in 2014, she received the PhD degree from the Biology department of National and Kapodistrian University of Athens 
-  in collaboration with the INAB/CERTH in 2019, working under the supervision of Dr. Kostas Stamatopoulos (Blood. 2007, Blood. 2012). 
-  Her PhD thesis was entitled: «Epigenetic mechanisms in chronic lymphocytic leukemia» and was granted by the State Scholarships Foundation (IKY). 
-  Her interests extend to the development of new bioinformatics tools using machine learning for the integration of 
-  high-throughput data, particularly DNA methylation arrays, WES and RNA-seq data, and also link them with relevant publicly available data. 
-  Moreover, her research interests also include the better use of publicly available NGS data, in support of open science and reproducibility of scientific results. 
-  She was awarded with the Short-term collaboration award of the European Hematology Association in order to visit IDIBAPS, Barcelona and work with the group of Dr. Martín-Subero, 
-  a leading expert in the field of cancer epigenomics (Nat Genet. 2012, Nat Genet. 2015, Cancer Cell. 2016, Nature Med. 2018). 
-  Also, she participated on bioinformatic courses to assist in strengthening her bioinformatics expertise such as 
-  The Volos Summer School in Human Genetics of Wellcome Sanger Institute, Bioinformatics and genome analyses, 
-  EMBO Courses & workshops and Analysis of High-Throughput Sequencing Data of EMBL-EBI. More recently, she was awarded as an Early Career on Research Data Alliance (RDA) Europe. 
-  She is involved in several data-related training activities, has been co-teaching at the CODATA-RDA Research Data Science Advanced Workshops on Advanced Bioinformatics workshop 
-  and is an Instructor of the Carpentries.
+  Maria Tsagiopoulou is a postdoctoral researcher at CNAG/CRG on the team of Dr. Ivo Gut. After her BSc in Molecular biology and genetics in 2013, she received her 
+  Ph.D. degree from the Biology department of National and Kapodistrian University of Athens in collaboration with the INAB/CERTH in 2019, working under the 
+  supervision of Dr. Kostas Stamatopoulos. Her Ph.D. thesis was entitled: «Epigenetic mechanisms in chronic lymphocytic leukemia (CLL)» and was granted by the 
+  State Scholarships Foundation of Greece which included 3 publications in the field of epigenetics in CLL. Within the frame of her Ph.D., she established a 
+  close collaboration with the team of Dr. Martin-Subero. Their collaboration started in 2017 with a mobility grant from European Hematology Association and is 
+  still ongoing with a shared project about histone acetylation profiles of stereotyped subsets in CLL. 
+  Her research interests extend to bioinformatics and she participated in bioinformatics courses to strengthen her bioinformatics expertise (Wellcome Sanger Institute,
+  EMBO Courses, and EMBL-EBI). In her first position as a Postdoc, graded by the Hellenic Foundation for Research and Innovation with a fellowship of excellence 
+  for junior researchers, she was working in the team of Dr. Fotis Psomopoulos. Through this position, she developed new bioinformatics tools using R and machine 
+  learning approaches for analyzing or integrating high-throughput data. Moreover, her research interests also include the better use of publicly available high 
+  throughput data, in support of open science and reproducibility of scientific results. In this context, she is currently working on the state of the art single-cell 
+  technologies studying the immune landscape through different tissues using publicly available data. Finally, she is involved in several data-related training 
+  activities such as the activities of the Research Data Alliance which is a global data-sharing community. She has been co-teaching at the CODATA-RDA/ ELIXIR Research
+  Data Science Advanced Workshops on Advanced Bioinformatics workshop and she is an Instructor of The Carpentries. Recently, she was awarded as an Early Career on 
+  RDA Europe in which she is a co-chair of the Interest Group “Early Career and Engagement” (2021-today).
 
 
 # Projects Section
