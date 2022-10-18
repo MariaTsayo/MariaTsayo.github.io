@@ -6,15 +6,13 @@
   dates: June 2022
   description: | # this will include new lines to allow paragraphs
     Travel grant for Congress of EHA (Vienna)
-
 - layout: left
   company: Seal of excellence from Horizon Europe Marie Skłodowska-Curie Actions call HORIZON-MSCA-2021-PF-01-01
   #link: Link to company (optional)
   #job_title: Job title
   dates: 2021
   description: | # this will include new lines to allow paragraphs
-    MSCA Postdoctoral Fellowships 2021 
-
+    MSCA Postdoctoral Fellowships 2021
 - layout: left
   company: Scholarship for junior researchers from Hellenic Foundation for Research and Innovation
   #link: Link to company (optional)
@@ -22,7 +20,6 @@
   dates: April 2019 – April 2021
   description: | # this will include new lines to allow paragraphs
     Early Career Fellowship
-
 - layout: left
   company: Early Career Researcher grant, Research Data Alliance (RDA)
   #link: Link to company (optional)
@@ -30,7 +27,6 @@
   dates: September 2019
   description: | # this will include new lines to allow paragraphs
     Early Career Researcher grant
-  
 - layout: left
   company: Travel grant from «Onassis Foundation»
   #link: Link to company (optional)
@@ -38,7 +34,6 @@
   dates: June 2018
   description: | # this will include new lines to allow paragraphs
     Travel grant from «Onassis Foundation» for the lectures 2018 Lectures in Biology and Chemistry, "Eukaryotic Transcription and its Regulation".
-
 - layout: left
   company: Travel grant, EUROPEAN HEMATOLOGY ASSOCIATION (EHA)
   #link: Link to company (optional)
@@ -46,7 +41,6 @@
   dates: June 2018
   description: | # this will include new lines to allow paragraphs
     Travel grant for 23rd Congress of EHA (Stockholm)
-
 - layout: left
   company: Junior short-term collaboration award, EUROPEAN HEMATOLOGY ASSOCIATION (EHA)
   #link: Link to company (optional)
@@ -54,7 +48,6 @@
   dates: June 2017
   description: | # this will include new lines to allow paragraphs
     *Study the DNA Methylation Profile of Subgroups of Chronic Lymphocytic Leukemia Cases Based on their Chromosomal Aberrations*
-
 - layout: left
   company: Fellowship from State Scholarships Foundation (IKY)
   #link: Link to company (optional)
@@ -62,7 +55,6 @@
   dates: May 2017 - May 2019
   description: | # this will include new lines to allow paragraphs
     PhD fellowship
-
 - layout: left
   company: Best oral presentation award, 28th Hellenic Hematology Congress
   #link: Link to company (optional)
@@ -71,7 +63,6 @@
   description: | # this will include new lines to allow paragraphs
     Maria Tsagiopoulou, Nikos Papakonstantinou, Theodoros Moysiadis, et al.
     *Overtime analysis of DNA methylation profiles in chronic lymphocytic leukemia- the evolution of epigenetic profile after treatment with FCR*
-
 - layout: left
   company: «Arkagathos Gouttas» Prize (Award), 26th Hellenic Ηematology Congress
   #link: Link to company (optional)
@@ -79,5 +70,4 @@
   dates: November 2015
   description: | # this will include new lines to allow paragraphs
     Stavroula Ntoufa, Nikos Papakonstantinou, Maria Tsagiopoulou, Theodoros Moisiadis, et al. 
-    *Distinct methylation patterns in subgroups of patients with chronic lymphocytic leukemia reveal tp63 as a new player in clinical aggressiveness*  
-
+    *Distinct methylation patterns in subgroups of patients with chronic lymphocytic leukemia reveal tp63 as a new player in clinical aggressiveness*
