@@ -70,26 +70,20 @@ more_content: | # this will include new lines to allow paragraphs
  •	**Maria Tsagiopoulou**, Vicente Chapaprieta, Martí Duran-Ferrer, et al., Chronic lymphocytic leukemias with trisomy 12 show a distinct DNA methylation profile linked to altered chromatin activation, Haematologica, 2020, https://doi.org/10.3324/haematol.2019.240721
  •	Andigoni Malousi, Sofia Kouidou, **Maria Tsagiopoulou**, et al., “MeinteR: A framework to prioritize DNA methylation aberrations based on conformational and cis-regulatory element enrichment”, Scientific Reports, 2019, https://doi.org/10.1038/s41598-019-55453-8
  •	**Maria Tsagiopoulou**, Nikos Papakonstantinou, Theodoros Moisiadis, et al., “DNA methylation profiles in chronic lymphocytic leukemia patients treated with chemoimmunotherapy”, Clin Epigenetics, 2019 Dec 2;11(1):177. doi: https://doi.org/10.1186/s13148-019-0783-1
- •	Nikos Papakonstantinou*, Stavroula Ntoufa*, **Maria Tsagiopoulou***, et al., “Integrated epigenomic and transcriptomic analysis reveals TP63 as a novel player in clinically aggressive chronic lymphocytic leukemia”, International Journal of Cancer, 2018, DOI: https://doi.org/10.1002/ijc.31999, *Equally first authors 
-  
+ •	Nikos Papakonstantinou*, Stavroula Ntoufa*, **Maria Tsagiopoulou***, et al., “Integrated epigenomic and transcriptomic analysis reveals TP63 as a novel player in clinically aggressive chronic lymphocytic leukemia”, International Journal of Cancer, 2018, DOI: https://doi.org/10.1002/ijc.31999, *Equally first authors
  2. I have participated in collaborative projects analyzing NGS data with a special focus on hematological malignancies
-
  •	Stamatia Laidou, Dionisis Grigoriadis, Sofia Papanikolaou, Spyros Foutadakis, Stavroula Ntoufa, Maria Tsagiopoulou, et.al. The TΑp63/BCL2 axis represents a novel mechanism of clinical aggressiveness in chronic lymphocytic leukemia. Blood Adv. 2022, doi: https://doi.org/10.1182/bloodadvances.2021006348
  •	Marina Gerousi, Fotis Psomopoulos, Konstantia Kotta, Maria Tsagiopoulou, et.al., The Calcitriol/Vitamin D Receptor System Regulates Key Immune Signaling Pathways in Chronic Lymphocytic Leukemia, Cancers, 2021, https://doi.org/10.3390/cancers13020285
  •	Maria Velegraki, Nikos Papakonstantinou, Lydia Kalaitzaki, Stavroula Ntoufa, Stamatia Laidou, Maria Tsagiopoulou, et al., Increased proportion and altered properties of intermediate monocytes in the peripheral blood of patients with lower risk Myelodysplastic Syndrome, Blood Cells, Molecules, and Diseases, 2020, https://doi.org/10.1016/j.bcmd.2020.102507
  •	Katerina Gemenetzi, Fotis Psomopoulos, Alejandra Carriles, Maria Gounari, Claudia Minici, Karla Plevova, Lesley A Sutton, Maria Tsagiopoulou, et al., Higher order immunoglobulin repertoire restrictions in CLL: the illustrative case of stereotyped subsets #2 and #169, Blood, 2020, https://doi.org/10.1182/blood.2020005216
  •	Stamatia Laidou, Gregorio Alanis-Lobato, Jan Pribyl, Tamás Raskó, Boris Tichy, Kamil Mikulasek, Maria Tsagiopoulou, et al., Nuclear inclusions of pathogenic ataxin-1 induce oxidative stress and perturb the protein synthesis machinery, et al., Redox Biology, 2020, https://doi.org/10.1016/j.redox.2020.101458
  •	Eleni Gavriilaki, Tasoula Touloumenidou, Ioanna Sakellari, Ioannis Batsis, Despina Mallouri, Fotis Psomopoulos, Maria Tsagiopoulou, et al., Pre-transplant genetic susceptibility: clinical relevance in transplant-associated thrombotic microangiopathy. Thrombosis and Haemostasis, 2020, https://doi.org/10.1055/s-0040-1702225
-
  3. Finally, I developed or supervised the development of new bioinformatics tools using R and machine learning approaches for analyzing or integrating high-throughput data
-
  •	Maria Tsagiopoulou, Nikolaos Pechlivanis, MC Maniou, Psomopoulos Fotis, InterTADs: integration of multi-omics data on topologically associated domains, application to chronic lymphocytic leukemia. NAR Genom Bioinform, 2022, doi: https://doi.org/10.1093/nargab/lqab121
  •	Nikolaos Pechlivanis, Maria Tsagiopoulou, MC Maniou, et al. Detecting SARS-CoV-2 lineages and mutational load in municipal wastewater and a use-case in the metropolitan area of Thessaloniki, Greece. Sci Rep., 2022, doi: https://doi.org/10.1038/s41598-022-06625-6
  •	Maria Tsagiopoulou, Anastasis Togkousidis, Nikolaos Pechlivanis, et. al., miRkit: R Framework Analyzing miRNA PCR Array Data, BMC Res Notes, 2021, https://doi.org/10.1186/s13104-021-05788-1
  •	Nikolaos Pechlivanis, Anastasios Togkousidis, Maria Tsagiopoulou, et. al., A Computational Framework for Pattern Detection on Unaligned Sequences: An Application on SARS-CoV-2 Data, Frontiers in Genetics, 2021, https://doi.org/10.3389/fgene.2021.618170
  •	Maria Tsagiopoulou, Maria Christina Maniou, Nikolaos Pechlivanis, et. al., UMIc: A Preprocessing Method for UMI Deduplication and Reads Correction, Frontiers in Genetics, 2021, https://doi.org/10.3389/fgene.2021.660366
- 
-
 # Footer
 footer_show_references: true
 
