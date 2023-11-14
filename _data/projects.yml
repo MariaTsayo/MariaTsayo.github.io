@@ -6,8 +6,8 @@
   #quote: >
   #  Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
-    Analysis of the transcriptional landscape of 114275 immune cells in 14 different organs/tissues with a special focus on the unique and shared features that 
-    characterized the different organs/tissues regarding the same immune cell types. 
+    Analysis of the transcriptional landscape of 114275 immune cells in 14 different organs/tissues with a special focus on the unique and shared features that characterized the different organs/tissues regarding the same immune cell types. 
+
 - layout: top-middle
   name: InterTADs
   #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
@@ -15,25 +15,24 @@
   #quote: >
   #  Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
-    [InterTADs](https://academic.oup.com/nargab/article/4/1/lqab121/6507428) is an open-source tool written in R, for integrating multi-omics data (e.g. DNA methylation, expression, mutation) 
-    from the same physical source (e.g. patient) taking into account the chromatin configuration of the genome, i.e. the topologically associating domains (TADs). 
+    [InterTADs](https://academic.oup.com/nargab/article/4/1/lqab121/6507428) is an open-source tool written in R, for integrating multi-omics data (e.g. DNA methylation, expression, mutation) from the same physical source (e.g. patient) taking into account the chromatin configuration of the genome, i.e. the topologically associating domains (TADs). 
+
 - layout: top-middle
   name: Acetylation profiles of stereotyped subsets in CLL
   #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: MariaTsayo//H3K27ac_ss8
+  github: MariaTsayo/H3K27ac_ss8
   #quote: >
   #  Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
-    In CLL, subsets of patients carrying stereotyped B cell receptors (BcR) share similar biological and clinical features independently of 
-    IGHV gene somatic hypermutation status. Although the chromatin landscape of CLL as a whole has been recently characterized, it remains 
-    largely unexplored in stereotyped cases. Here, we analyzed the active chromatin regulatory landscape of 3 major CLL stereotyped subsets associated with clinical aggressiveness.
- - layout: top-middle
-   name: DNA methylation studies in CLL
-   #link: http://www.haematologica.org/content/early/2020/02/21/haematol.2019.240721
-   #github: https://github.com/MariaTsayo/consensusTable_MACS2
-   #quote: >
-   #  Short overview of the project (optional)
-   description: | # this will include new lines to allow paragraphs
+    In CLL, subsets of patients carrying stereotyped B cell receptors (BcR) share similar biological and clinical features independently of IGHV gene somatic hypermutation status. Although the chromatin landscape of CLL as a whole has been recently characterized, it remains largely unexplored in stereotyped cases. Here, we analyzed the active chromatin regulatory landscape of 3 major CLL stereotyped subsets associated with clinical aggressiveness.
+
+- layout: top-middle
+  name: DNA methylation studies in CLL
+  #link: http://www.haematologica.org/content/early/2020/02/21/haematol.2019.240721
+  #github: https://github.com/MariaTsayo/consensusTable_MACS2
+  #quote: >
+  #  Short overview of the project (optional)
+  description: | # this will include new lines to allow paragraphs
     Altogether, this project confirms the significance of DNA methylation in CLL,  
     provides insight into the mechanism of [the progression and relapse](https://clinicalepigeneticsjournal.biomedcentral.com/articles/10.1186/s13148-019-0783-1) and further unravels 
     the DNA methylation landscape in [cytogenetic subgroups](http://www.haematologica.org/content/early/2020/02/21/haematol.2019.240721) and [stereotyped subsets of CLL](https://onlinelibrary.wiley.com/doi/full/10.1002/ijc.31999).
