@@ -1,30 +1,30 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
-# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+repository: sproogen/modern-resume-theme
+favicon: images/favicon.ico
 
 # Personal info
 name: CV Maria Tsagiopoulou
 title: Postdoctoral researcher
 email: maria.tsagiopoulou@cnag.crg.eu
-#website: Your website (eg. https://google.com)(optional)
+#website: https://yourwebsite.com
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
 twitter_username: tsayo7
-github_username:  MariaTsayo
+github_username: MariaTsayo
 linkedin_username: maria-tsagiopoulou-106913113
 orcid_username: 0000-0002-1653-0327
 
 # Additional icon links
 additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+  - title: Link name
+    icon: fa-twitter
+    url: https://google.com
 # - title: another link
-#   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-#   url: Link url (eg. https://google.com)
+#   icon: fa-twitter
+#   url: https://google.com
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -35,23 +35,9 @@ additional_links:
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Maria_Tsagiopoulou.jpg
-about_content: | # this will include new lines to allow paragraphs
-  Maria Tsagiopoulou is a postdoctoral researcher at CNAG/CRG on the team of Dr. Ivo Gut. After her BSc in Molecular biology and genetics in 2013, she received her 
-  Ph.D. degree from the Biology department of National and Kapodistrian University of Athens in collaboration with the INAB/CERTH in 2019, working under the  
-  supervision of Dr. Kostas Stamatopoulos. Her Ph.D. thesis was entitled: «Epigenetic mechanisms in chronic lymphocytic leukemia (CLL)» and was granted by the 
-  State Scholarships Foundation of Greece which included 3 publications in the field of epigenetics in CLL. Within the frame of her Ph.D., she established a 
-  close collaboration with the team of Dr. Martin-Subero. Their collaboration started in 2017 with a mobility grant from European Hematology Association and is 
-  still ongoing with a shared project about histone acetylation profiles of stereotyped subsets in CLL. 
-  Her research interests extend to bioinformatics and she participated in bioinformatics courses to strengthen her bioinformatics expertise (Wellcome Sanger Institute,
-  EMBO Courses, and EMBL-EBI). In her first position as a Postdoc, graded by the Hellenic Foundation for Research and Innovation with a fellowship of excellence 
-  for junior researchers, she was working in the team of Dr. Fotis Psomopoulos. Through this position, she developed new bioinformatics tools using R and machine 
-  learning approaches for analyzing or integrating high-throughput data. Moreover, her research interests also include the better use of publicly available high 
-  throughput data, in support of open science and reproducibility of scientific results. In this context, she is currently working on the state of the art single-cell 
-  technologies studying the immune landscape through different tissues using publicly available data. Finally, she is involved in several data-related training 
-  activities such as the activities of the Research Data Alliance which is a global data-sharing community. She has been co-teaching at the CODATA-RDA/ ELIXIR Research
-  Data Science Advanced Workshops on Advanced Bioinformatics workshop and she is an Instructor of The Carpentries. Recently, she was awarded as an Early Career on 
-  RDA Europe in which she is a co-chair of the Interest Group “Early Career and Engagement” (2021-today).
-
+about_content: |
+  Maria Tsagiopoulou is a postdoctoral researcher at CNAG/CRG on the team of Dr. Ivo Gut. After her BSc in Molecular biology and genetics in 2013, she received her Ph.D. degree from the Biology department of National and Kapodistrian University of Athens in collaboration with the INAB/CERTH in 2019, working under the supervision of Dr. Kostas Stamatopoulos. Her Ph.D. thesis was entitled: «Epigenetic mechanisms in chronic lymphocytic leukemia (CLL)» and was granted by the State Scholarships Foundation of Greece which included 3 publications in the field of epigenetics in CLL. Within the frame of her Ph.D., she established a close collaboration with the team of Dr. Martin-Subero. Their collaboration started in 2017 with a mobility grant from the European Hematology Association and is still ongoing with a shared project about histone acetylation profiles of stereotyped subsets in CLL. 
+  Her research interests extend to bioinformatics, and she participated in bioinformatics courses to strengthen her bioinformatics expertise (Wellcome Sanger Institute, EMBO Courses, and EMBL-EBI). In her first position as a Postdoc, graded by the Hellenic Foundation for Research and Innovation with a fellowship of excellence for junior researchers, she was working in the team of Dr. Fotis Psomopoulos. Through this position, she developed new bioinformatics tools using R and machine learning approaches for analyzing or integrating high-throughput data. Moreover, her research interests also include the better use of publicly available high throughput data, in support of open science and reproducibility of scientific results. In this context, she is currently working on the state of the art single-cell technologies studying the immune landscape through different tissues using publicly available data. Finally, she is involved in several data-related training activities such as the activities of the Research Data Alliance which is a global data-sharing community. She has been co-teaching at the CODATA-RDA/ ELIXIR Research Data Science Advanced Workshops on the Advanced Bioinformatics workshop and she is an Instructor of The Carpentries. Recently, she was awarded as an Early Career on RDA Europe in which she is a co-chair of the Interest Group “Early Career and Engagement” (2021-today).
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
@@ -64,27 +50,26 @@ experience_title: Awards #(Use this to override about experience section title)
 
 # More Section
 #more_title: Publications #(Use this to override about more section title)
-more_content: | # this will include new lines to allow paragraphs
- My early work focused on the epigenetic mechanisms and their implication in gene expression of specific genes in chronic lymphocytic leukemia 
- •	**Maria Tsagiopoulou**, Nikolaos Pechlivanis, MC Maniou, Psomopoulos Fotis, InterTADs: integration of multi-omics data on topologically associated domains, application to chronic lymphocytic leukemia. NAR Genom Bioinform, 2022, doi: https://doi.org/10.1093/nargab/lqab121
- •	**Maria Tsagiopoulou**, Vicente Chapaprieta, Martí Duran-Ferrer, et al., Chronic lymphocytic leukemias with trisomy 12 show a distinct DNA methylation profile linked to altered chromatin activation, Haematologica, 2020, https://doi.org/10.3324/haematol.2019.240721
- •	Andigoni Malousi, Sofia Kouidou, **Maria Tsagiopoulou**, et al., “MeinteR: A framework to prioritize DNA methylation aberrations based on conformational and cis-regulatory element enrichment”, Scientific Reports, 2019, https://doi.org/10.1038/s41598-019-55453-8
- •	**Maria Tsagiopoulou**, Nikos Papakonstantinou, Theodoros Moisiadis, et al., “DNA methylation profiles in chronic lymphocytic leukemia patients treated with chemoimmunotherapy”, Clin Epigenetics, 2019 Dec 2;11(1):177. doi: https://doi.org/10.1186/s13148-019-0783-1
- •	Nikos Papakonstantinou*, Stavroula Ntoufa*, **Maria Tsagiopoulou***, et al., “Integrated epigenomic and transcriptomic analysis reveals TP63 as a novel player in clinically aggressive chronic lymphocytic leukemia”, International Journal of Cancer, 2018, DOI: https://doi.org/10.1002/ijc.31999, *Equally first authors
- I have participated in collaborative projects analyzing NGS data with a special focus on hematological malignancies
- •	Stamatia Laidou, Dionisis Grigoriadis, Sofia Papanikolaou, Spyros Foutadakis, Stavroula Ntoufa, Maria Tsagiopoulou, et.al. The TΑp63/BCL2 axis represents a novel mechanism of clinical aggressiveness in chronic lymphocytic leukemia. Blood Adv. 2022, doi: https://doi.org/10.1182/bloodadvances.2021006348
- •	Marina Gerousi, Fotis Psomopoulos, Konstantia Kotta, Maria Tsagiopoulou, et.al., The Calcitriol/Vitamin D Receptor System Regulates Key Immune Signaling Pathways in Chronic Lymphocytic Leukemia, Cancers, 2021, https://doi.org/10.3390/cancers13020285
- •	Maria Velegraki, Nikos Papakonstantinou, Lydia Kalaitzaki, Stavroula Ntoufa, Stamatia Laidou, Maria Tsagiopoulou, et al., Increased proportion and altered properties of intermediate monocytes in the peripheral blood of patients with lower risk Myelodysplastic Syndrome, Blood Cells, Molecules, and Diseases, 2020, https://doi.org/10.1016/j.bcmd.2020.102507
- •	Katerina Gemenetzi, Fotis Psomopoulos, Alejandra Carriles, Maria Gounari, Claudia Minici, Karla Plevova, Lesley A Sutton, Maria Tsagiopoulou, et al., Higher order immunoglobulin repertoire restrictions in CLL: the illustrative case of stereotyped subsets #2 and #169, Blood, 2020, https://doi.org/10.1182/blood.2020005216
- •	Stamatia Laidou, Gregorio Alanis-Lobato, Jan Pribyl, Tamás Raskó, Boris Tichy, Kamil Mikulasek, Maria Tsagiopoulou, et al., Nuclear inclusions of pathogenic ataxin-1 induce oxidative stress and perturb the protein synthesis machinery, et al., Redox Biology, 2020, https://doi.org/10.1016/j.redox.2020.101458
- •	Eleni Gavriilaki, Tasoula Touloumenidou, Ioanna Sakellari, Ioannis Batsis, Despina Mallouri, Fotis Psomopoulos, Maria Tsagiopoulou, et al., Pre-transplant genetic susceptibility: clinical relevance in transplant-associated thrombotic microangiopathy. Thrombosis and Haemostasis, 2020, https://doi.org/10.1055/s-0040-1702225
- Finally, I developed or supervised the development of new bioinformatics tools using R and machine learning approaches for analyzing or integrating high-throughput data
- •	Maria Tsagiopoulou, Nikolaos Pechlivanis, MC Maniou, Psomopoulos Fotis, InterTADs: integration of multi-omics data on topologically associated domains, application to chronic lymphocytic leukemia. NAR Genom Bioinform, 2022, doi: https://doi.org/10.1093/nargab/lqab121
- •	Nikolaos Pechlivanis, Maria Tsagiopoulou, MC Maniou, et al. Detecting SARS-CoV-2 lineages and mutational load in municipal wastewater and a use-case in the metropolitan area of Thessaloniki, Greece. Sci Rep., 2022, doi: https://doi.org/10.1038/s41598-022-06625-6
- •	Maria Tsagiopoulou, Anastasis Togkousidis, Nikolaos Pechlivanis, et. al., miRkit: R Framework Analyzing miRNA PCR Array Data, BMC Res Notes, 2021, https://doi.org/10.1186/s13104-021-05788-1
- •	Nikolaos Pechlivanis, Anastasios Togkousidis, Maria Tsagiopoulou, et. al., A Computational Framework for Pattern Detection on Unaligned Sequences: An Application on SARS-CoV-2 Data, Frontiers in Genetics, 2021, https://doi.org/10.3389/fgene.2021.618170
- •	Maria Tsagiopoulou, Maria Christina Maniou, Nikolaos Pechlivanis, et. al., UMIc: A Preprocessing Method for UMI Deduplication and Reads Correction, Frontiers in Genetics, 2021, https://doi.org/10.3389/fgene.2021.660366
-
+more_content: |
+  My early work focused on the epigenetic mechanisms and their implication in gene expression of specific genes in chronic lymphocytic leukemia 
+  • **Maria Tsagiopoulou**, Nikolaos Pechlivanis, MC Maniou, Psomopoulos Fotis, InterTADs: integration of multi-omics data on topologically associated domains, application to chronic lymphocytic leukemia. NAR Genom Bioinform, 2022, doi: https://doi.org/10.1093/nargab/lqab121
+  • **Maria Tsagiopoulou**, Vicente Chapaprieta, Martí Duran-Ferrer, et al., Chronic lymphocytic leukemias with trisomy 12 show a distinct DNA methylation profile linked to altered chromatin activation, Haematologica, 2020, https://doi.org/10.3324/haematol.2019.240721
+  • Andigoni Malousi, Sofia Kouidou, **Maria Tsagiopoulou**, et al., “MeinteR: A framework to prioritize DNA methylation aberrations based on conformational and cis-regulatory element enrichment”, Scientific Reports, 2019, https://doi.org/10.1038/s41598-019-55453-8
+  • **Maria Tsagiopoulou**, Nikos Papakonstantinou, Theodoros Moisiadis, et al., “DNA methylation profiles in chronic lymphocytic leukemia patients treated with chemoimmunotherapy”, Clin Epigenetics, 2019 Dec 2;11(1):177. doi: https://doi.org/10.1186/s13148-019-0783-1
+  • Nikos Papakonstantinou*, Stavroula Ntoufa*, **Maria Tsagiopoulou***, et al., “Integrated epigenomic and transcriptomic analysis reveals TP63 as a novel player in clinically aggressive chronic lymphocytic leukemia”, International Journal of Cancer, 2018, DOI: https://doi.org/10.1002/ijc.31999, *Equally first authors
+  I have participated in collaborative projects analyzing NGS data with a special focus on hematological malignancies
+  • Stamatia Laidou, Dionisis Grigoriadis, Sofia Papanikolaou, Spyros Foutadakis, Stavroula Ntoufa, Maria Tsagiopoulou, et.al. The TΑp63/BCL2 axis represents a novel mechanism of clinical aggressiveness in chronic lymphocytic leukemia. Blood Adv. 2022, doi: https://doi.org/10.1182/bloodadvances.2021006348
+  • Marina Gerousi, Fotis Psomopoulos, Konstantia Kotta, Maria Tsagiopoulou, et.al., The Calcitriol/Vitamin D Receptor System Regulates Key Immune Signaling Pathways in Chronic Lymphocytic Leukemia, Cancers, 2021, https://doi.org/10.3390/cancers13020285
+  • Maria Velegraki, Nikos Papakonstantinou, Lydia Kalaitzaki, Stavroula Ntoufa, Stamatia Laidou, Maria Tsagiopoulou, et al., Increased proportion and altered properties of intermediate monocytes in the peripheral blood of patients with lower risk Myelodysplastic Syndrome, Blood Cells, Molecules, and Diseases, 2020, https://doi.org/10.1016/j.bcmd.2020.102507
+  • Katerina Gemenetzi, Fotis Psomopoulos, Alejandra Carriles, Maria Gounari, Claudia Minici, Karla Plevova, Lesley A Sutton, Maria Tsagiopoulou, et al., Higher order immunoglobulin repertoire restrictions in CLL: the illustrative case of stereotyped subsets #2 and #169, Blood, 2020, https://doi.org/10.1182/blood.2020005216
+  • Stamatia Laidou, Gregorio Alanis-Lobato, Jan Pribyl, Tamás Raskó, Boris Tichy, Kamil Mikulasek, Maria Tsagiopoulou, et al., Nuclear inclusions of pathogenic ataxin-1 induce oxidative stress and perturb the protein synthesis machinery, et al., Redox Biology, 2020, https://doi.org/10.1016/j.redox.2020.101458
+  • Eleni Gavriilaki, Tasoula Touloumenidou, Ioanna Sakellari, Ioannis Batsis, Despina Mallouri, Fotis Psomopoulos, Maria Tsagiopoulou, et al., Pre-transplant genetic susceptibility: clinical relevance in transplant-associated thrombotic microangiopathy. Thrombosis and Haemostasis, 2020, https://doi.org/10.1055/s-0040-1702225
+  Finally, I developed or supervised the development of new bioinformatics tools using R and machine learning approaches for analyzing or integrating high-throughput data
+  • Maria Tsagiopoulou, Nikolaos Pechlivanis, MC Maniou, Psomopoulos Fotis, InterTADs: integration of multi-omics data on topologically associated domains, application to chronic lymphocytic leukemia. NAR Genom Bioinform, 2022, doi: https://doi.org/10.1093/nargab/lqab121
+  • Nikolaos Pechlivanis, Maria Tsagiopoulou, MC Maniou, et al. Detecting SARS-CoV-2 lineages and mutational load in municipal wastewater and a use-case in the metropolitan area of Thessaloniki, Greece. Sci Rep., 2022, doi: https://doi.org/10.1038/s41598-022-06625-6
+  • Maria Tsagiopoulou, Anastasis Togkousidis, Nikolaos Pechlivanis, et. al., miRkit: R Framework Analyzing miRNA PCR Array Data, BMC Res Notes, 2021, https://doi.org/10.1186/s13104-021-05788-1
+  • Nikolaos Pechlivanis, Anastasios Togkousidis, Maria Tsagiopoulou, et. al., A Computational Framework for Pattern Detection on Unaligned Sequences: An Application on SARS-CoV-2 Data, Frontiers in Genetics, 2021, https://doi.org/10.3389/fgene.2021.618170
+  • Maria Tsagiopoulou, Maria Christina Maniou, Nikolaos Pechlivanis, et. al., UMIc: A Preprocessing Method for UMI Deduplication and Reads Correction, Frontiers in Genetics, 2021, https://doi.org/10.3389/fgene.2021.660366
 
 # Footer
 footer_show_references: true
@@ -100,15 +85,14 @@ sass:
 plugins:
  - jekyll-seo-tag
 
-exclude : [
-  "Gemfile",
-  "Gemfile.lock",
-  "node_modules",
-  "vendor/bundle/",
-  "vendor/cache/",
-  "vendor/gems/",
-  "vendor/ruby/",
-  "lib/",
-  "scripts/",
-  "docker-compose.yml",
-  ]
+exclude:
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "node_modules"
+  - "vendor/bundle/"
+  - "vendor/cache/"
+  - "vendor/gems/"
+  - "vendor/ruby/"
+  - "lib/"
+  - "scripts/"
+  - "docker-compose.yml"
